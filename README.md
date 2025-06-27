@@ -1,6 +1,6 @@
 # 20 minute lightning workshop
 
-## Build A Lightning Wallet in 20 mins
+### Build A Lightning Wallet in 20 mins
 ### Powered by Voltage & MutinyNet
 
 Link to slides:
